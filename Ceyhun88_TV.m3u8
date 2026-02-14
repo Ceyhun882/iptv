@@ -1,77 +1,7 @@
-#EXTM3U
-#EXTINF:0,AzTV
-#EXTGRP:Azerbaijan Channels
-https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:0,ARB TV
-#EXTGRP:Azerbaijan Channels
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:0,Ictimai TV
-#EXTGRP:Azerbaijan Channels
-https://live.itv.az/itv.m3u8
-#EXTINF:0,Real TV
-#EXTGRP:Azerbaijan Channels
-http://185.32.44.154/realtv/index.m3u8
-#EXTINF:0,ARB 24 (rez)
-#EXTGRP:Azerbaijan Channels
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:0,ARB Canli AZ
-#EXTGRP:Azerbaijan Channels
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:0,Azad TV
-#EXTGRP:Azerbaijan Channels
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:0,Azad TV (rez)
-#EXTGRP:Azerbaijan Channels
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_240p500kbps.m3u8
-#EXTINF:0,Xazar TV
-#EXTGRP:Azerbaijan Channels
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:0,CBC Sport
-#EXTGRP:Azerbaijan Channels
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:0,Baku.TV
-#EXTGRP:Azerbaijan Channels
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/baku-tv.m3u8
-#EXTINF:0,Medeniyyet
-#EXTGRP:Azerbaijan Channels
-https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,APA TV
+
 #EXTGRP:Azerbaijan Channels
 http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:0,AZSTAR TV
-#EXTGRP:Azerbaijan Channels
-http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
-#EXTINF:0,CBC
-#EXTGRP:Azerbaijan Channels
-http://rr3.tvdosug.net/~20197578c58a8027c24ee952ff568e8fad3/41774/hlsx/pl.m3u8
-#EXTINF:0,DUNYA TV
-#EXTGRP:Azerbaijan Channels
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:0,Space TV
-#EXTGRP:Azerbaijan Channels
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:0,TMB Azerbaycan
-#EXTGRP:Azerbaijan Channels
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:0,TRT 1 HD
-#EXTGRP:Turkish Channels
-http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,KANAL D
-#EXTGRP:Turkish Channels
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
-#EXTINF:0,Kanal 7 FHD TR (rez)
-#EXTGRP:Turkish Channels
-https://kanal7.daioncdn.net/kanal7/kanal7_480p.m3u8?&sid=630s3zibbjtp&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
-#EXTINF:0,Kanal 7 Avrupa TR
-#EXTGRP:Turkish Channels
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:0,ATV HD TR
-#EXTGRP:Turkish Channels
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:0,Show Turk TR
-#EXTGRP:Turkish Channels
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
-#EXTINF:0,Show TV HD
+#E
 #EXTGRP:Turkish Channels
 http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48849.m3u8
 #EXTINF:0,Show Max
@@ -296,3 +226,4 @@ https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3
 #EXTINF:0,Zarok Tv
 #EXTGRP:Kids Channels
 https://zindikirmancki.zaroktv.com.tr/hls/0/stream.m3u8
+
